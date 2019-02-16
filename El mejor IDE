@@ -1,0 +1,5 @@
+I don't recommend a IDE for complete beginner because it automatically complete your half written word thus not
+letting you learn them well. Of course you can disable autocomplete feature. But, I think beginner should work 
+close to the metal. And as they developed into intermediate they can use IDE's because usually at that stage simple
+text editors won't suffice. Long story short, a beginner should use IDLE because it is builtin and it has basic features.
+But, if you insist for more complete IDE PyCharm is the best.
