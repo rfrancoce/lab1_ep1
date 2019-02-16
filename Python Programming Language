@@ -1,0 +1,12 @@
+Because it is a more general language than any other in the scientific world. Also, it is free software.
+
+For example, you can easily apply Python for your scientific computations, as well as for a GUI application,
+or a network client. Scientists are not like programmers and they generally prefer to learn the fewest programming
+languages and tools as possible. It is a matter of convenience, they can learn Python and use it everywhere.
+
+Also, it is free software. MATLAB, for example, is not free, and its free implementation, GNU Octave, 
+doesn't have a very big community at the moment.
+
+About performance, they are about the same. Some studies say that Numpy and MATLAB perform similarly,
+with Python code optimizations doing better than MATLAB. Also, Python code is easily parallelizable 
+using MPI [1], and this is important for scientific computations. [2]
